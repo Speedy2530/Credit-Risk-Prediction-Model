@@ -7,4 +7,4 @@ Credit Risk Prediction Model - Loan status classification using RandomForestClas
 - Model Evaluation
 - Hyperparameter Tuning
 
-**Some graphs not visible through github format**
+(**Some graphs not visible through github**)
